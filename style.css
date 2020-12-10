@@ -7,3 +7,17 @@ header {
     margin: 0px;
     padding: 20px;
 }
+.hhead {
+    margin: 10px;
+    display: inline;
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+}
+.hlink {
+    margin: 10px;
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    display: inline;
+}
